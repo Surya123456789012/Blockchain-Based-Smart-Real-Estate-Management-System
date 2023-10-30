@@ -1,6 +1,6 @@
-NMTEAM ID : NM2023TMID03827
+NMTEAM ID     : NM2023TMID03827
 
-PROJECT NAME : Blockchain-Based Smart Real Estate Management System
+PROJECT NAME  : Blockchain-Based Smart Real Estate Management System
 
 TEAM LEAD     : SATHIYABABU R
 TEAM MEMBER 1 : JAYASURYA S
